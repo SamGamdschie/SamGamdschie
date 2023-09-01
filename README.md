@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @SamGamdschie
 - 👀 I’m interested in chemistry and web and FreeBSD
-- 🌱 I’m currently learning ABAP/OO on S/4 HANA and [BastilleBSD](https://github.com/BastilleBSD/bastille)
+- 🌱 I’m currently learning [ABAP/OO](https://github.com/SAP/styleguides/blob/main/clean-abap/CleanABAP.md) on S/4 HANA and [BastilleBSD](https://github.com/BastilleBSD/bastille)
 - 📫 Find me on my [webpage](https://thorsten.werzel.de)
